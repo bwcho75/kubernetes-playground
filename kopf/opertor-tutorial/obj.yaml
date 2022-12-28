@@ -1,0 +1,4 @@
+apiVersion: terry.com/v1
+kind: HelloOperator
+metadata:
+  name: my-helloworld
